@@ -3,6 +3,7 @@
 Note that the board (at least the first version) is installed upside down so the bottom is facing out when installed in the cover.
 
 Numbering the pins from right to left (1-8):
+
 | Pin # | Function | Color |
 |:---:|----------|:---------:|
 | 1 | Ground | Brown |
